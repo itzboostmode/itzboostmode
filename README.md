@@ -1,16 +1,13 @@
-## Hi there 👋
+# itzboostmode — nice to meet you 👋
 
-<!--
-**itzboostmode/itzboostmode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Singapore.
 
-Here are some ideas to get you started:
+- 🎯 This year's goal: ship something every month
+- 🚀 Interested in minimalism
+- 🌍 Based in Singapore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itzboostmode&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=onedark" alt="itzboostmode GitHub stats" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzboostmode&hide_border=true&theme=react-dark" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/Python-fb923c?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-fb923c?style=for-the-badge&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Neovim-fb923c?style=for-the-badge&logoColor=white" alt="Neovim" />
